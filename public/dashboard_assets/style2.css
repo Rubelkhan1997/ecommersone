@@ -1,0 +1,39 @@
+.card{
+  background: #f9f9f9;
+  margin-bottom: 50px;
+  margin-left: 14px;
+  padding-bottom: 15px;
+}
+.card-header{
+  padding: 10px 0px;
+  border-bottom: 1px solid #ccc;
+}
+.card-body{
+background: white;
+}
+.card-header h2{
+  padding: 5px;
+}
+
+.form-group{
+  padding: 14px;
+}
+input[type=text]{
+  border-radius: 5px;
+}
+.shadow{
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.11);
+}
+.breadcome-list{
+  margin-bottom: 20px;
+}
+
+#button .btn-success:hover{
+  background: #FF956E;
+}
+#button  button{
+  margin-left:-38px;
+  background: none;
+  border:none;
+  color: white;
+}
